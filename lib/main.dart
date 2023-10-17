@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:madlabtasks_20sw116/Lab01%20Tasks/chatappUI.dart';
+import 'package:madlabtasks_20sw116/Chat%20App%20UI%20Task/chatappUI.dart';
 
 // tasks done by 20sw116
 void main() {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:madlabtasks_20sw116/Lab04%20Tasks/DetailsScreen.dart';
+import 'package:madlabtasks_20sw116/Forms%20Task/DetailsScreen.dart';
 
 void main() {
   runApp(MaterialApp(
